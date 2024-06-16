@@ -1,4 +1,4 @@
-# Weather Realtime (vue-joki)
+# Weather Realtime
 
 A Widget Weather Realtime
 
